@@ -1,0 +1,7 @@
+{
+	"name": "Web push demo",
+	"start_url": "/",
+	"id": "web_push_demo_070",
+	"display": "standalone",
+	"short_name": "Web push demo"
+}
