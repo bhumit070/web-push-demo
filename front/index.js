@@ -30,7 +30,7 @@ async function requestForNotificationPermission() {
 		} else {
 			_subscription = await registration.pushManager.subscribe({
 				userVisibleOnly: true,
-				applicationServerKey: '<Your VAPID Public Key>'
+				applicationServerKey: 'BMWLOPHht4FYKtdzIuam7Ox5104H84HY5-p42T-Pl3b719U6UlPvPggM4bHzaLM5UB4N-qp8b8VNtLTtJmTlTpw'
 			})
 		}
 
